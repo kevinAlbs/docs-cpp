@@ -46,6 +46,8 @@ Sonames and Symlinks
 Windows (MSVC only)
 ~~~~~~~~~~~~~~~~~~~
 
+Foo bar
+
 Since version 3.10.0, the physical filename for CXX Driver libraries is different
 from other platforms when built with the MSVC toolchain on Windows
 (even when the CMake generator is not Visual Studio).
